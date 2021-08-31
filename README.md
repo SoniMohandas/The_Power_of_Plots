@@ -4,7 +4,7 @@
 
 *In the beginning the data is cleaned by droping duplicate entries of Mouse ID with timepoint.  Then, aggregation methods were used for the statistical study of the tumor volume for each drug regimen. Different plotting methods were used to analyse the study results.  Calculated the quartiles and IQR and quantitatively determined whether any potential outliers across Capomulin, Ramicane, Infubinol, and Ceftamin treatment regimens. Then, generated box and whisker plots of final tumor volume.  Calculated the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment over scatter plot. 
 
-*Finally, the story observed from the analytical study is included in the top of this notebook.
+*Finally, the story observed from the analytical study is included in the top of the code.
 
 
 
